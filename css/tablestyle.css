@@ -13,6 +13,8 @@ h2 small {
   font-size: 0.5em;
 }
 
+
+
 .responsive-table li {
   border-radius: 3px;
   padding: 25px 30px;
@@ -40,6 +42,9 @@ h2 small {
   flex-basis: 25%;
 }
 .responsive-table .col-4 {
+  flex-basis: 25%;
+}
+.responsive-table .col-5 {
   flex-basis: 25%;
 }
 @media all and (max-width: 767px) {
