@@ -21,8 +21,13 @@ Home > View Customer > Select One Customer > Transfer Money > Select Receiver > 
 ## Screenshots
 
 ![](screenshot/index.png)
+
 ![](screenshot/viewcustomer.png)
+
 ![](screenshot/transfer.png)
+
 ![](screenshot/transfer_success.png)
+
 ![](screenshot/history.png)
+
 ![](screenshot/contact.png)
