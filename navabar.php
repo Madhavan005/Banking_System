@@ -9,7 +9,7 @@
           <ul class="navbar-nav ms-auto mb-2 mb-lg-0">
 
               <a class="nav-link hover-underline-animation " aria-current="page" href="index.php">Home</a>
-            </li>
+            
             <li class="nav-item">
               <a class="nav-link hover-underline-animation" href="viewcustomer.php">View Customer</a>
             </li>
