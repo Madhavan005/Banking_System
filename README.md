@@ -18,4 +18,6 @@
 ### Flow of the website
 Home > View Customer > Select One Customer > Transfer Money > Select Receiver > View Customer
 
-
+## Screenshots
+___
+![](screenshot/index.php)
