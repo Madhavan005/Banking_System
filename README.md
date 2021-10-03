@@ -20,4 +20,4 @@ Home > View Customer > Select One Customer > Transfer Money > Select Receiver > 
 
 ## Screenshots
 ___
-![](screenshot/index.php)
+![](screenshot/index.png)
