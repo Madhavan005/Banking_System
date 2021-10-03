@@ -207,7 +207,7 @@ if( isset($_POST['submit']) )
                     document.getElementById("myForm").reset();
 
                     Swal.fire(
-                    'Transaction sucess',
+                    'Transaction success',
                     '',
                     'success'
                     )
