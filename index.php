@@ -21,27 +21,28 @@
 
 </head>
 <body>
-    <div class="container">
+    <header>
         <?php
-        include 'navabar.php'
+            include 'navabar.php'
         ?>
+    </header>
 
-        <section class="container ">
+    <div class="container">
 
-            <div class="jumbotron  mx-auto py-4" style="width: 70rem;">
+        <div class="d-flex flex-column min-vh-100 justify-content-center align-items-center">
+            <div class="jumbotron">
                 <h1 class="display-4 text-center">Welcome to SPARK BANK</h1>
-                <hr class="my-4 mx-auto" style="width: 60rem;">
+                <hr class="my-4 mx-auto">
                 <p class="text-center">Banks that don’t just change the business model, they change the world</p>
             </div>
-            
-        </section>
+        </div>
 
 
         <br>
         <br>
 
         <!-- Contact Section -->
-        <section class="container border pt-5 bg-white" style="width: 50rem;" id="contact" >
+        <section class="container contact col-md-12 text-center text-md-left p-2 border pt-5 bg-white" id="contact" >
             <div class="container headings text-center">
                 <h1 class="center" style="font-weight: bold;text-align: center;">CONTACT US</h1>
                 <p>We're Here To Help And Answer Any Questions You Might Have.We Look Forward To Hearing From You</p>
@@ -59,9 +60,9 @@
                                 <input type="email" class="form-control" placeholder="Enter email" id="email" required autocomplete="off">
                             </div><br>
 
-                            <div class="form-group">
+                            <!-- <div class="form-group">
                             <input type="number" class="form-control" placeholder="Enter mobile number" id="mobile" required autocomplete="off">
-                            </div><br>
+                            </div><br> -->
 
                             <div class="form-group">
                                 <label for="comment">Comment:</label>
@@ -79,9 +80,16 @@
         <br>
 
         <?php
-            include 'footer.php'
-        ?>
+include 'footer.php'
+?>
 
     </div>
+ 
 </body>
 </html>
+
+
+<!-- 
+
+epiz_29869938_BankDB	epiz_29869938	(Your vPanel Password)	sql201.epizy.com
+ -->

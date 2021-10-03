@@ -11,6 +11,8 @@ body{
 .table{
 	width: 100%;
 	border-collapse: collapse;
+	/* border-collapse: separate;
+	border-spacing: 0 20px ; */
 }
 
 .table td,.table th{
