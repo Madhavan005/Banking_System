@@ -10,7 +10,7 @@
 >  ### Front-End:
 - HTML
 - CSS
-- Bootstrap
+- Bootstrap 5
 > ### Back-End:
 -  PHP 
 -  MYSQL
