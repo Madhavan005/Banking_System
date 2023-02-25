@@ -1,4 +1,3 @@
-# SPARK-FOUNDATION-INTERN
 
 # Banking-System
 
